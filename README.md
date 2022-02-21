@@ -1,2 +1,2 @@
 # Survival-Shooter-2D
-![image](https://user-images.githubusercontent.com/79854006/154959413-a40398cf-c3d1-41ba-9514-3363aa3bbbc5.png)
+![Screenshot_1](https://user-images.githubusercontent.com/79854006/154960332-66b86db8-448b-44be-ae77-e16929ef89a6.png)
